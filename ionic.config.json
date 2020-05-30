@@ -1,5 +1,7 @@
 {
   "name": "embed-vimeo",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
